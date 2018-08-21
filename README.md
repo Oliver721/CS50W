@@ -180,55 +180,55 @@
 
 ~~01:33:50 - notes~~
 
-## Lecture 3 - SQL
+## ~~Lecture 3 - SQL~~
 
-00:00:00 - Introduction
+~~00:00:00 - Introduction~~
 
-00:00:51 - Databases
+~~00:00:51 - Databases~~
 
-00:01:53 - SQL
+~~00:01:53 - SQL~~
 
-00:02:35 - SQL Data Types
+~~00:02:35 - SQL Data Types~~
 
-00:04:26 - create.sql
+~~00:04:26 - create.sql~~
 
-00:09:27 - Constraints
+~~00:09:27 - Constraints~~
 
-00:11:07 - INSERT
+~~00:11:07 - INSERT~~
 
-00:13:39 - insert.sql
+~~00:13:39 - insert.sql~~
 
-00:14:06 - SELECT
+~~00:14:06 - SELECT~~
 
-00:25:37 - SQL Functions
+~~00:25:37 - SQL Functions~~
 
-00:26:21 - UPDATE
+~~00:26:21 - UPDATE~~
 
-00:28:37 - DELETE
+~~00:28:37 - DELETE~~
 
-00:36:57 - Foreign Keys
+~~00:36:57 - Foreign Keys~~
 
-00:42:48 - joins.sql
+~~00:42:48 - joins.sql~~
 
-00:50:15 - Indexing
+~~00:50:15 - Indexing~~
 
-00:56:30 - SQL Injection
+~~00:56:30 - SQL Injection~~
 
-01:02:57 - Race Conditions
+~~01:02:57 - Race Conditions~~
 
-01:08:10 - SQL Transactions
+~~01:08:10 - SQL Transactions~~
 
-01:09:08 - SQLAlchemy
+~~01:09:08 - SQLAlchemy~~
 
-01:09:45 - list.py
+~~01:09:45 - list.py~~
 
-01:15:42 - import.py
+~~01:15:42 - import.py~~
 
-01:22:05 - passengers.py
+~~01:22:05 - passengers.py~~
 
-01:25:19 - airline0
+~~01:25:19 - airline0~~
 
-01:38:59 - airline1
+~~01:38:59 - airline1~~
 
 ## Lecture 4 - ORMs, APIs
 
