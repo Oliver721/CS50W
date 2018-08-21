@@ -232,49 +232,49 @@
 
 ## Lecture 4 - ORMs, APIs
 
-00:00:00 - Introduction
+~~00:00:00 - Introduction~~
 
-00:01:56 - Object-Oriented Programming
+~~00:01:56 - Object-Oriented Programming~~
 
-00:03:26 - classes0.py
+~~00:03:26 - classes0.py~~
 
-00:05:32 - classes1.py
+~~00:05:32 - classes1.py~~
 
-00:12:31 - classes2.py
+~~00:12:31 - classes2.py~~
 
-00:17:05 - classes3.py
+~~00:17:05 - classes3.py~~
 
-00:19:45 - classes4.py
+~~00:19:45 - classes4.py~~
 
-00:25:55 - Object-Relational Mapping
+~~00:25:55 - Object-Relational Mapping~~
 
-00:26:51 - Flask-SQLAlchemy
+~~00:26:51 - Flask-SQLAlchemy~~
 
-00:27:36 - models.py
+~~00:27:36 - models.py~~
 
-00:32:47 - create.py
+~~00:32:47 - create.py~~
 
-00:38:35 - import0.py
+~~00:38:35 - import0.py~~
 
-00:39:12 - import1.py
+~~00:39:12 - import1.py~~
 
-00:51:45 - airline1
+~~00:51:45 - airline1~~
 
-00:52:27 - airline2
+~~00:52:27 - airline2~~
 
-00:56:54 - airline3
+~~00:56:54 - airline3~~
 
-01:00:28 - airline4
+~~01:00:28 - airline4~~
 
-01:05:25 - Relationships
+~~01:05:25 - Relationships~~
 
-01:07:27 - APIs
+~~01:07:27 - APIs~~
 
-01:08:12 - JSON
+~~01:08:12 - JSON~~
 
-01:15:11 - HTTP Methods
+~~01:15:11 - HTTP Methods~~
 
-01:16:31 - requests
+~~01:16:31 - requests~~
 
 01:16:53 - google.py
 
@@ -282,7 +282,7 @@
 
 01:21:38 - currency0.py
 
-01:23:11 - HTTP Status Codes
+~~01:23:11 - HTTP Status Codes~~
 
 01:26:27 - currency1.py
 
@@ -290,7 +290,7 @@
 
 01:33:52 - airline5
 
-01:40:29 - API Keys
+~~01:40:29 - API Keys~~
 
 ## Lecture 5 - JavaScript
 
