@@ -230,7 +230,7 @@
 
 ~~01:38:59 - airline1~~
 
-## Lecture 4 - ORMs, APIs
+## ~~Lecture 4 - ORMs, APIs~~
 
 ~~00:00:00 - Introduction~~
 
@@ -276,19 +276,19 @@
 
 ~~01:16:31 - requests~~
 
-01:16:53 - google.py
+~~01:16:53 - google.py~~
 
-01:19:25 - fixer.io
+~~01:19:25 - fixer.io~~
 
-01:21:38 - currency0.py
+~~01:21:38 - currency0.py (因为API过期无法运行了)~~
 
 ~~01:23:11 - HTTP Status Codes~~
 
-01:26:27 - currency1.py
+~~01:26:27 - currency1.py (因为API过期无法运行了)~~
 
-01:30:28 - currency2.py
+~~01:30:28 - currency2.py (因为API过期无法运行了)~~
 
-01:33:52 - airline5
+~~01:33:52 - airline5~~
 
 ~~01:40:29 - API Keys~~
 
