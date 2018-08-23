@@ -292,73 +292,73 @@
 
 ~~01:40:29 - API Keys~~
 
-## Lecture 5 - JavaScript
+## ~~Lecture 5 - JavaScript~~
 
-00:00:00 - Introduction
+~~00:00:00 - Introduction~~
 
-00:02:42 - JavaScript
+~~00:02:42 - JavaScript~~
 
-00:03:22 - ES6
+~~00:03:22 - ES6~~
 
-00:03:55 - JavaScript in a Web Page
+~~00:03:55 - JavaScript in a Web Page~~
 
-00:04:43 - hello0.html
+~~00:04:43 - hello0.html~~
 
-00:06:21 - events.html
+~~00:06:21 - events.html~~
 
-00:09:52 - Functions
+~~00:09:52 - Functions~~
 
-00:10:37 - Events
+~~00:10:37 - Events~~
 
-00:12:53 - query.html
+~~00:12:53 - query.html~~
 
-00:17:48 - querySelector
+~~00:17:48 - querySelector~~
 
-00:19:02 - counter0.html
+~~00:19:02 - counter0.html~~
 
-00:21:38 - counter1.html
+~~00:21:38 - counter1.html~~
 
-00:25:40 - counter2.html
+~~00:25:40 - counter2.html~~
 
-00:32:52 - counter3.html
+~~00:32:52 - counter3.html~~
 
-00:34:10 - Variables
+~~00:34:10 - Variables~~
 
-00:35:50 - variables0.html
+~~00:35:50 - variables0.html~~
 
-00:36:31 - variables1.html
+~~00:36:31 - variables1.html~~
 
-00:38:21 - variables2.html
+~~00:38:21 - variables2.html~~
 
-00:45:33 - colors0.html
+~~00:45:33 - colors0.html~~
 
-00:48:23 - colors1.html
+~~00:48:23 - colors1.html~~
 
-00:55:08 - Arrow Functions
+~~00:55:08 - Arrow Functions~~
 
-00:56:41 - colors2.html
+~~00:56:41 - colors2.html~~
 
-00:57:50 - colors3.html
+~~00:57:50 - colors3.html~~
 
-01:01:41 - tasks0.html
+~~01:01:41 - tasks0.html~~
 
-01:06:42 - tasks1.html
+~~01:06:42 - tasks1.html~~
 
-01:09:07 - tasks2.html
+~~01:09:07 - tasks2.html~~
 
-01:11:44 - interval.html
+~~01:11:44 - interval.html~~
 
-01:13:40 - storage.html
+~~01:13:40 - storage.html~~
 
-01:18:07 - Ajax
+~~01:18:07 - Ajax~~
 
-01:18:36 - currency
+~~01:18:36 - currency (因为API过期无法运行了)~~
 
-01:30:56 - Socket.IO
+~~01:30:56 - Socket.IO~~
 
-01:33:01 - vote0
+~~01:33:01 - vote0~~
 
-01:42:09 - vote1
+~~01:42:09 - vote1~~
 
 ## Lecture 6 - Front Ends
 
