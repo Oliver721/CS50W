@@ -362,43 +362,43 @@
 
 ## Lecture 6 - Front Ends
 
-00:00:00 - Introduction
+~~00:00:00 - Introduction~~
 
-00:00:53 - Single-Page Apps
+~~00:00:53 - Single-Page Apps~~
 
-00:02:22 - multipage
+~~00:02:22 - multipage~~
 
-00:05:48 - singlepage0
+~~00:05:48 - singlepage0~~
 
-00:15:06 - HTML5 History API
+~~00:15:06 - HTML5 History API~~
 
-00:16:19 - singlepage1
+~~00:16:19 - singlepage1~~
 
-00:25:38 - window
+~~00:25:38 - window~~
 
-00:30:03 - scroll.html
+~~00:30:03 - scroll.html~~
 
-00:33:12 - posts0
+~~00:33:12 - posts0~~
 
-00:42:36 - posts1
+~~00:42:36 - posts1~~
 
-00:47:47 - dice0
+~~00:47:47 - dice0~~
 
-00:52:37 - dice1
+~~00:52:37 - dice1~~
 
-00:55:06 - dice2
+~~00:55:06 - dice2~~
 
-00:59:50 - dice3
+~~00:59:50 - dice3~~
 
-01:06:32 - CSS Animation
+~~01:06:32 - CSS Animation~~
 
-01:07:56 - animate0.html
+~~01:07:56 - animate0.html~~
 
-01:10:31 - animate1.html
+~~01:10:31 - animate1.html~~
 
-01:12:40 - animate2.html
+~~01:12:40 - animate2.html~~
 
-01:14:42 - animate3.html
+~~01:14:42 - animate3.html~~
 
 01:16:55 - posts2
 
