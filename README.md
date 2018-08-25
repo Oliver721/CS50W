@@ -360,7 +360,7 @@
 
 ~~01:42:09 - vote1~~
 
-## Lecture 6 - Front Ends
+## ~~Lecture 6 - Front Ends~~
 
 ~~00:00:00 - Introduction~~
 
@@ -373,6 +373,8 @@
 ~~00:15:06 - HTML5 History API~~
 
 ~~00:16:19 - singlepage1~~
+
+~~00:20:30 - singlepage2~~
 
 ~~00:25:38 - window~~
 
@@ -400,29 +402,29 @@
 
 ~~01:14:42 - animate3.html~~
 
-01:16:55 - posts2
+~~01:16:55 - posts2~~
 
-01:17:48 - posts3
+~~01:17:48 - posts3~~
 
-01:22:09 - posts4
+~~01:22:09 - posts4~~
 
-01:23:37 - circle0.html
+~~01:23:37 - circle0.html~~
 
-01:25:27 - circle1.html
+~~01:25:27 - circle1.html~~
 
-01:27:20 - rect.html
+~~01:27:20 - rect.html~~
 
-01:28:07 - circle2.html
+~~01:28:07 - circle2.html~~
 
-01:29:51 - circle3.html
+~~01:29:51 - circle3.html~~
 
-01:31:48 - stoplight.html
+~~01:31:48 - stoplight.html~~
 
-01:35:05 - draw0.html
+~~01:35:05 - draw0.html~~
 
-01:38:12 - draw1.html
+~~01:38:12 - draw1.html~~
 
-01:40:41 - draw2.html
+~~01:40:41 - draw2.html~~
 
 ## Lecture 7 - Django
 
